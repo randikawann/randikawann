@@ -6,4 +6,4 @@
 
 ![Randika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=randikawann&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randikaw&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randikawann&layout=compact&theme=default)
