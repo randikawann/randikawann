@@ -5,9 +5,10 @@
 - 🛠️ Tools: Xcode, Android Studio, VS code, Swift, Kotlin, React native, Flutter, Python, Git, Swift
 
 ## 📈 GitHub Stats
-![Randika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=randikawann&show_icons=true)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randikawann&layout=compact&theme=default) 
+![Randika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=randikawann&show_icons=true)  
 
-![Profile views](https://komarev.com/ghpvc/?username=randikawann&color=blue)
+## 🚀 Tech Stack
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randikawann&layout=compact&theme=default) 
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=randikawann&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
@@ -22,3 +23,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+
+![Profile views](https://komarev.com/ghpvc/?username=randikawann&color=blue)
+
