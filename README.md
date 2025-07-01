@@ -8,7 +8,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=randikawann&color=blue)
 
-![snake gif](https://github.com/randikaw/randikaw/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/randikawann/randikaw/blob/output/github-contribution-grid-snake.svg)
 
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
@@ -16,7 +16,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=randikaw&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=randikawann&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
