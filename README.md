@@ -6,5 +6,5 @@
 
 ![Randika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=randikawann&show_icons=true)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randikawann&layout=compact&theme=default) 
 
-![Profile views](https://komarev.com/ghpvc/?username=randikaw&color=blue)
+![snake gif](https://github.com/randikaw/randikaw/blob/output/github-contribution-grid-snake.svg)
 
