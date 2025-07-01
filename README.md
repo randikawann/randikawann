@@ -5,3 +5,5 @@
 - 🛠️ Tools: Xcode, Android Studio, VS code, Swift, Kotlin, React native, Flutter, Python, Git, Swift
 
 ![Randika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=randikawann&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randikaw&layout=compact&theme=default)
